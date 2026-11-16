@@ -9,7 +9,7 @@ Spessartstraße 25
 64846 Groß-Zimmern
 Deutschland
 
-E-Mail: DEINE-E-MAIL-ADRESSE
+E-Mail: machwickart@icloud.com
 
 ## Worum es geht
 
