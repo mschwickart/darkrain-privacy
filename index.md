@@ -1,4 +1,4 @@
-# Datenschutzerklärung – DarkRain
+# Datenschutzerklärung – Gleich – Regenradar
 
 Stand: 16.11.2026
 
@@ -13,11 +13,11 @@ E-Mail: machwickart@icloud.com
 
 ## Worum es geht
 
-DarkRain zeigt dir, wann und wie stark es an deinem Standort regnet. Diese Erklärung beschreibt, welche Daten die App dafür verwendet.
+Gleich – Regenradar zeigt dir, wann und wie stark es an deinem Standort regnet. Diese Erklärung beschreibt, welche Daten die App dafür verwendet.
 
 ## Welche Daten verwendet werden
 
-**Standort.** Die App nutzt den genauen Standort deines Geräts, aber nur, solange du sie verwendest. Im Hintergrund wird er nicht abgefragt. DarkRain selbst speichert deinen Standort nicht und gibt ihn nicht für Werbezwecke weiter.
+**Standort.** Die App nutzt den genauen Standort deines Geräts, aber nur, solange du sie verwendest. Im Hintergrund wird er nicht abgefragt. Gleich – Regenradar selbst speichert deinen Standort nicht und gibt ihn nicht für Werbezwecke weiter.
 
 **Weitergabe des Standorts an Dienste.** Damit die App funktioniert, wird dein Standort an zwei Dienste übermittelt:
 
@@ -41,11 +41,11 @@ Die Verarbeitung deines Standorts erfolgt auf Grundlage deiner Einwilligung (Art
 
 ## Deine Rechte
 
-Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten sowie das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Anfragen richtest du an die oben genannte E-Mail-Adresse. Da DarkRain deinen Standort nicht speichert, liegen bei mir in der Regel keine Daten über dich vor.
+Du hast das Recht auf Auskunft, Berichtigung, Löschung und Einschränkung der Verarbeitung deiner Daten sowie das Recht, dich bei einer Datenschutz-Aufsichtsbehörde zu beschweren. Anfragen richtest du an die oben genannte E-Mail-Adresse. Da Gleich – Regenradar deinen Standort nicht speichert, liegen bei mir in der Regel keine Daten über dich vor.
 
 ## Standortzugriff widerrufen
 
-Du kannst den Zugriff jederzeit beenden: Einstellungen → Datenschutz & Sicherheit → Ortungsdienste → DarkRain. Ohne Standort kann die App den Regen für deinen Ort nicht anzeigen.
+Du kannst den Zugriff jederzeit beenden: Einstellungen → Datenschutz & Sicherheit → Ortungsdienste → Gleich – Regenradar. Ohne Standort kann die App den Regen für deinen Ort nicht anzeigen.
 
 ## Quellen der Wetterdaten
 
